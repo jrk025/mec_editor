@@ -1,5 +1,4 @@
-# mec_editor
-MEC Editor (My Editor Car)
+# MEC (My Editor Car)
 
 MEC Editor is a powerful, lightweight save game editor designed specifically for My Summer Car (MSC) and My Winter Car (MWC). Built with C++ and Dear ImGui, it provides a fast and intuitive interface for modifying your game's binary save files with safety and precision.
 
