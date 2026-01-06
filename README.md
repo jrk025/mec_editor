@@ -46,8 +46,6 @@ Installation
 
     Download the latest release.
 
-    Extract the .zip to any folder.
-
     Run meceditor.exe.
 
 How to Use
